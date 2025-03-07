@@ -7,7 +7,7 @@ typedef struct {
     string weapon;
 
 }Weapon;
-
+//drftgdf
 Weapon chouse;
 void introduction();
 void room1();
